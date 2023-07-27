@@ -4,7 +4,7 @@
 </p>
 <div id="badges" align="center">
 
-## Java Backend Part of Website for Posting Ads. Graduation Group Project
+## Backend Part of Website on Java for a Second Hand Marketplace Where Users Can Post Ads for the Things They Want to Resell
 </div>
 
 <div id="badges" align="center">
